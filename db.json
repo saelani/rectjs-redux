@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "saelani",
+      "alamat": "Manislor",
+      "umur": 40,
+      "nohp": "0812121212"
+    },
+    {
+      "id": 2,
+      "nama": "Avika",
+      "alamat": "Jalaksana",
+      "umur": 4,
+      "nohp": "081111111111"
+    },
+    {
+      "id": 3,
+      "nama": "Qayyum",
+      "alamat": "Kuningan",
+      "umur": 14,
+      "nohp": "08222222222222"
+    },
+    {
+      "id": 4,
+      "nama": "Ade ",
+      "alamat": "Babakanmulya",
+      "umur": 10,
+      "nohp": "0812121212"
+    },
+    {
+      "id": 5,
+      "nama": "Rizky",
+      "alamat": "Babakanmulya",
+      "umur": 20,
+      "nohp": "081111111111"
+    },
+    {
+      "id": 6,
+      "nama": "Afiqoh",
+      "alamat": "Manislor",
+      "umur": 31,
+      "nohp": "08222222222222"
+    },
+    {
+      "id": 7,
+      "nama": "Fiqi",
+      "alamat": "Manislor",
+      "umur": 30,
+      "nohp": "0812121212"
+    },
+    {
+      "id": 8,
+      "nama": "Aripin",
+      "alamat": "Jalaksana",
+      "umur": 35,
+      "nohp": "081111111111"
+    },
+    {
+      "id": 9,
+      "nama": "Dewi",
+      "alamat": "Kuningan",
+      "umur": 14,
+      "nohp": "08222222222222"
+    },
+    {
+      "id": 10,
+      "nama": "Rafa",
+      "alamat": "Manislor",
+      "umur": 40,
+      "nohp": "0812121212"
+    },
+    {
+      "id": 11,
+      "nama": "Rafi",
+      "alamat": "Jalaksana",
+      "umur": 4,
+      "nohp": "081111111111"
+    },
+    {
+      "id": 12,
+      "nama": "Iqbal",
+      "alamat": "Kuningan",
+      "umur": 14,
+      "nohp": "08222222222222"
+    }
+  ]
+}
