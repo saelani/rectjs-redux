@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id_user": 1,
+      "nama_lengkap": "David Naista",
+      "email": "davidnaista83@gmail.com",
+      "no_hp": "0892342834",
+      "alamat": "asdfasdfasfjkshfkl",
+      "username": "davidnaista",
+      "password": "e790dbd9e39fccb7e51b64d54839101b",
+      "images": "06_29_38_2016_01_26_David_Naista.jpg"
+    },
+    {
+      "id_user": 2,
+      "nama_lengkap": "Administrator",
+      "email": "admin@mail.com",
+      "no_hp": "",
+      "alamat": "Jakarta Barat",
+      "username": "admin",
+      "password": "21232f297a57a5a743894a0e4a801fc3",
+      "images": "06_31_50_2016_01_26_Administrator.jpg"
+    }
+  ]
+}
